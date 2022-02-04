@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+![Image](![WQ-Logo_Portrait_Reverse](https://user-images.githubusercontent.com/98996397/152463690-8aa41fdd-dc07-48e5-8b21-4072ab32a630.png))
+```
 
-You can use the [editor on GitHub](https://github.com/winstonquinngin/winstonquinngin.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+#  Winston Quinn Gin. 
+## Cocktails Vol. 1
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## No. 1 - Yassss Quinn
 
-# Header 1
-## Header 2
-### Header 3
+### Ingredients
+- 60ml Winston Quinn Pink Fit 
+- 45ml Cloudy Apple Juice
+- 20ml Maraschino Cherry Syrup
+- 15ml lime juice
+- 1 egg white or 15ml Aquafaba
 
-- Bulleted
-- List
+### Method:
+1. Add all ingredients to shaker
+2. Shake without ice for 10 seconds
+3. Add ice to shaker, shake again.
+4. Double strain into a coupe glass.
+5. Enjoy!
 
-1. Numbered
-2. List
+
+
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+![Image]()
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/winstonquinngin/winstonquinngin.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Link](https://www.winstonquinngin.com)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+
+
+
+
