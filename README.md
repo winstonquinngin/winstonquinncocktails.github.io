@@ -1,46 +1,27 @@
-![Image](![WQ-Logo_Portrait_Reverse](https://user-images.githubusercontent.com/98996397/152463690-8aa41fdd-dc07-48e5-8b21-4072ab32a630.png))
-```
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-#  Winston Quinn Gin. 
-## Cocktails Vol. 1
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
 
+    <title>Hello, world!</title>
+  </head>
+  <body>
+    <h1>Hello, world!</h1>
 
+    <!-- Optional JavaScript; choose one of the two! -->
 
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 
-## No. 1 - Yassss Quinn
-
-### Ingredients
-- 60ml Winston Quinn Pink Fit 
-- 45ml Cloudy Apple Juice
-- 20ml Maraschino Cherry Syrup
-- 15ml lime juice
-- 1 egg white or 15ml Aquafaba
-
-### Method:
-1. Add all ingredients to shaker
-2. Shake without ice for 10 seconds
-3. Add ice to shaker, shake again.
-4. Double strain into a coupe glass.
-5. Enjoy!
-
-
-
-
-**Bold** and _Italic_ and `Code` text
-
-![Image]()
-
-
-
-[Link](https://www.winstonquinngin.com)
-
-
-
-
-
-
-
-
-
-
-
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" integrity="sha384-7+zCNj/IqJ95wo16oMtfsKbZ9ccEh31eOz1HGyDuCQ6wgnyJNSYdrPa03rtR1zdB" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" integrity="sha384-QJHtvGhmr9XOIpI6YVutG+2QOK9T+ZnN4kzFN1RtK3zEFEIsxhlmWl5/YESvpZ13" crossorigin="anonymous"></script>
+    -->
+  </body>
+</html>
